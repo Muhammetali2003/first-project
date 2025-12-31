@@ -3,8 +3,6 @@ import sys
 
 # Инициализация Pygame
 pygame.init()
-
-# Константы
 WIDTH, HEIGHT = 600, 700
 BOARD_SIZE = 300
 CELL_SIZE = BOARD_SIZE // 3
